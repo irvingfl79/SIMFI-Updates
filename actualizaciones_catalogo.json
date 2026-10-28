@@ -1,9 +1,9 @@
 {
     "linea_version":  10,
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "sistema":  "SIMFI",
-    "fecha":  "2026-10-23",
-    "sha256":  "F997BC80A3CE872A5AF1845EA50D52E42DD5CC43994B89066574E9C060ACA1F4",
-    "artefacto":  "SIMFI_Actualizacion_1.2.1.zip",
-    "url":  "https://raw.githubusercontent.com/irvingfl79/SIMFI-Updates/master/SIMFI_Actualizacion_1.2.1.zip"
+    "fecha":  "2026-10-27",
+    "sha256":  "C09EA85057DCE365DB667B74F8781B522C4226CAF86A0435ACC1A6882E56BF5C",
+    "artefacto":  "SIMFI_Actualizacion_1.2.2.zip",
+    "url":  "https://raw.githubusercontent.com/irvingfl79/SIMFI-Updates/master/SIMFI_Actualizacion_1.2.2.zip"
 }
